@@ -1,7 +1,5 @@
 ---
-name: Pull request
-about: Create a pull request
-label: 'triage me'
+title: Pull request
 ---
 Thank you for opening a Pull Request!
 Before submitting your PR, there are a few things you can do to make sure it goes smoothly:
